@@ -1,0 +1,324 @@
+[
+{
+"id": 1,
+"name": "Brisa Cítrica Real",
+"brand": "Atelier Lumière",
+"gender": "Unisex",
+"families": [
+"Cítrica",
+"Aromática"
+],
+"intensity": "Sutil",
+"occasions": [
+"Día a día",
+"Trabajo / Oficina"
+],
+"notes": [
+"Bergamota",
+"Lavanda",
+"Menta",
+"Té Verde",
+"Cedro"
+],
+"style": "Relajado y Natural",
+"seasons": [
+"Primavera",
+"Verano"
+],
+"price": 1100,
+"concentration": "Eau de Toilette",
+"bottle": "Minimalista",
+"icon": "🍋",
+"desc": "Frescura limpia de bergamota y té verde con un fondo suave de lavanda ideal para uso diario."
+},
+{
+"id": 2,
+"name": "Jardín de Vainilla y Jazmín",
+"brand": "Maison Fleur",
+"gender": "Femenino",
+"families": [
+"Floral",
+"Oriental"
+],
+"intensity": "Moderado",
+"occasions": [
+"Cita Romántica",
+"Día a día"
+],
+"notes": [
+"Vainilla",
+"Jazmín",
+"Rosa",
+"Sándalo",
+"Ámbar"
+],
+"style": "Clásico y Sofisticado",
+"seasons": [
+"Primavera",
+"Otoño"
+],
+"price": 1650,
+"concentration": "Eau de Parfum",
+"bottle": "Lujo",
+"icon": "🌸",
+"desc": "Un ramo floral luminoso envuelto en vainilla cremosa y maderas cálidas."
+},
+{
+"id": 3,
+"name": "Oud Nocturno Intenso",
+"brand": "Nuit d'Or",
+"gender": "Masculino",
+"families": [
+"Amaderada",
+"Oriental"
+],
+"intensity": "Intenso",
+"occasions": [
+"Eventos Especiales / Noche",
+"Cita Romántica"
+],
+"notes": [
+"Oud",
+"Ámbar",
+"Sándalo",
+"Pimienta",
+"Canela",
+"Tabaco"
+],
+"style": "Audaz y Sensual",
+"seasons": [
+"Otoño",
+"Invierno"
+],
+"price": 2400,
+"concentration": "Parfum",
+"bottle": "Lujo",
+"icon": "🪵",
+"desc": "Fragancia profunda y envolvente con maderas nobles, especias cálidas y ámbar dorado."
+},
+{
+"id": 4,
+"name": "Bosque de Cedro y Salvia",
+"brand": "Terra Botanica",
+"gender": "Masculino",
+"families": [
+"Amaderada",
+"Aromática"
+],
+"intensity": "Moderado",
+"occasions": [
+"Trabajo / Oficina",
+"Día a día"
+],
+"notes": [
+"Cedro",
+"Salvia",
+"Bergamota",
+"Vetiver",
+"Lavanda"
+],
+"style": "Clásico y Sofisticado",
+"seasons": [
+"Otoño",
+"Primavera"
+],
+"price": 1400,
+"concentration": "Eau de Parfum",
+"bottle": "Minimalista",
+"icon": "🌲",
+"desc": "Equilibrio elegante entre hierbas aromáticas frescas y maderas secas."
+},
+{
+"id": 5,
+"name": "Néctar Gourmand de Cacao",
+"brand": "Velours",
+"gender": "Femenino",
+"families": [
+"Oriental",
+"Floral"
+],
+"intensity": "Intenso",
+"occasions": [
+"Cita Romántica",
+"Eventos Especiales / Noche"
+],
+"notes": [
+"Vainilla",
+"Cacao",
+"Canela",
+"Cardamomo",
+"Ámbar",
+"Rosa"
+],
+"style": "Audaz y Sensual",
+"seasons": [
+"Invierno",
+"Otoño"
+],
+"price": 1950,
+"concentration": "Eau de Parfum",
+"bottle": "Artesanal",
+"icon": "🍫",
+"desc": "Aroma dulce y especiado con vainilla tostada, cacao fino y un toque floral aterciopelado."
+},
+{
+"id": 6,
+"name": "Rocío de Lirio y Peonía",
+"brand": "Aura Botanica",
+"gender": "Femenino",
+"families": [
+"Floral",
+"Cítrica"
+],
+"intensity": "Sutil",
+"occasions": [
+"Día a día",
+"Trabajo / Oficina"
+],
+"notes": [
+"Peonía",
+"Lirio del Valle",
+"Bergamota",
+"Jazmín",
+"Té Verde"
+],
+"style": "Relajado y Natural",
+"seasons": [
+"Primavera",
+"Verano"
+],
+"price": 980,
+"concentration": "Eau de Toilette",
+"bottle": "Artesanal",
+"icon": "🌿",
+"desc": "Delicada composición floral acuática con pétalos frescos y salida cítrica."
+},
+{
+"id": 7,
+"name": "Especias del Desierto",
+"brand": "Caravane",
+"gender": "Unisex",
+"families": [
+"Oriental",
+"Amaderada"
+],
+"intensity": "Intenso",
+"occasions": [
+"Eventos Especiales / Noche",
+"Cita Romántica"
+],
+"notes": [
+"Cardamomo",
+"Pimienta",
+"Sándalo",
+"Ámbar",
+"Incienso",
+"Vainilla"
+],
+"style": "Bohemio",
+"seasons": [
+"Otoño",
+"Invierno"
+],
+"price": 1800,
+"concentration": "Parfum",
+"bottle": "Artesanal",
+"icon": "✨",
+"desc": "Mezcla artística de especias exóticas, resinas dulces y maderas cremosas."
+},
+{
+"id": 8,
+"name": "Costa Mediterránea",
+"brand": "Acqua Viva",
+"gender": "Unisex",
+"families": [
+"Cítrica",
+"Aromática"
+],
+"intensity": "Moderado",
+"occasions": [
+"Día a día",
+"Trabajo / Oficina"
+],
+"notes": [
+"Mandarina",
+"Bergamota",
+"Romero",
+"Menta",
+"Salvia"
+],
+"style": "Relajado y Natural",
+"seasons": [
+"Verano",
+"Primavera"
+],
+"price": 1250,
+"concentration": "Eau de Toilette",
+"bottle": "Minimalista",
+"icon": "🌊",
+"desc": "Energía solar de cítricos mediterráneos con hierbas aromáticas revitalizantes."
+},
+{
+"id": 9,
+"name": "Aura de Cuero y Tabaco",
+"brand": "Maison Noir",
+"gender": "Masculino",
+"families": [
+"Amaderada",
+"Oriental"
+],
+"intensity": "Intenso",
+"occasions": [
+"Eventos Especiales / Noche",
+"Cita Romántica"
+],
+"notes": [
+"Tabaco",
+"Pachulí",
+"Canela",
+"Ámbar",
+"Sándalo"
+],
+"style": "Audaz y Sensual",
+"seasons": [
+"Invierno",
+"Otoño"
+],
+"price": 2250,
+"concentration": "Parfum",
+"bottle": "Lujo",
+"icon": "🖤",
+"desc": "Carácter imponente con acordes de tabaco fino, cuero especiado y maderas profundas."
+},
+{
+"id": 10,
+"name": "Brisas de Almizcle Blanco",
+"brand": "Étoile Pure",
+"gender": "Femenino",
+"families": [
+"Floral",
+"Aromática"
+],
+"intensity": "Sutil",
+"occasions": [
+"Día a día",
+"Trabajo / Oficina"
+],
+"notes": [
+"Rosa",
+"Lavanda",
+"Bergamota",
+"Jazmín"
+],
+"style": "Clásico y Sofisticado",
+"seasons": [
+"Primavera",
+"Verano"
+],
+"price": 1350,
+"concentration": "Eau de Toilette",
+"bottle": "Minimalista",
+"icon": "☁️",
+"desc": "Un aroma limpio y reconfortante que evoca sábanas de lino recién lavadas al sol."
+}
+]
